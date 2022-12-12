@@ -3,7 +3,7 @@ function sum(old_value, given_array) {
   for (let i = 0; i < given_array.length; i++) {
     summa += given_array[i];
   }  
-  return sum;
+  return summa;
 }
 
 class Builder {
