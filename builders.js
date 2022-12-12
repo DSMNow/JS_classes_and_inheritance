@@ -1,7 +1,7 @@
 function sum(old_value, given_array) {
-  let sum = 0;
+  let summa = 0;
   for (let i = 0; i < given_array.length; i++) {
-    sum += given_array[i];
+    summa += given_array[i];
   }  
   return sum;
 }
